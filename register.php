@@ -6,9 +6,8 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 	
 </head>
-<link rel="shortcut icon" icon href="p1.png"  />
+
 <body>
-<center><img src="p1.png" alt="HTML5 Icon" style="width:1200px;height:250px;"></center>
 	<div class="header">
 		<h2>Register</h2>
 	</div>
